@@ -37,17 +37,9 @@ div {
 #grid{
    display: flex; flex-direction: row;
 }
-.right {
-  height: 1000px;
-  width: 45px;
-  background-color: #e0eeee;
-  float: right;
-  position: inherit;
-  z-index: -1;
-  
-}
 
-.mypage-centercontent{
+
+#mypage-centercontent{
   order:2;
   padding-top: 3%;
   margin-left: 3%;
