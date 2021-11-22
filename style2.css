@@ -8,7 +8,7 @@ div {
   width: 100%;
   background-color: #d989f0;
   position: fixed;
-  z-index: -1;
+ /* z-index: -1;*/
   text-align:center;
   
 }
